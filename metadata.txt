@@ -1,0 +1,10 @@
+[general]
+name=Universal Coordinate Calculator
+qgisMinimumVersion=3.28
+description=Convert between WGS 84 decimal degrees, DMS, UTM (with Garmin string) and Indonesian TM-3: single point and batch
+about=Converts coordinates between WGS 84 decimal degrees, DMS, UTM (all zones, with Garmin waypoint string) and the 16 DGN95 Indonesia TM-3 zones (EPSG:23830-23845). Single point (pick from map) and batch conversion of any layer, CSV or Excel table. Uses QGIS/PROJ, no extra Python packages.
+version=1.1.0
+author=MAPP
+email=mpanduprab@gmail.com
+tags=coordinates,indonesia,tm-3,utm,dms,converter,wgs84
+experimental=True
